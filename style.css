@@ -1,0 +1,59 @@
+.NAV1{
+text-align: center;
+background-color: black;
+color: #8BA6B2;
+font-size: 0.6EM;
+align-items: center;
+margin: 0;
+padding: 0;
+}
+table{
+    margin: 0 auto;
+    text-align:center"
+}
+td{
+    padding: 5PX;
+}
+.DAWNTITLE{
+text-align: center;
+color: #DBB9B2;
+}
+.nav2 a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    font-size: .7em;
+    margin: 2px;
+}
+.corona{
+    color: darkred !important;
+    text-decoration: darkred;
+    
+}
+a:hover{
+    background-color: lightgrey;
+}
+a:visited{
+    color: darkcyan;
+}
+a:active{
+    color: darkgreen;
+}
+a:focus{
+    background-color: darkkhaki;
+}
+p{
+    text-align: center;
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 400px;
+
+}
+form{
+    margin-left: 150px;
+}
+input:focus{
+    border: rgb(201, 189, 189) solid ;
+    background-color: rgb(231, 227, 221);
+    box-shadow: rgb(165, 178, 179) 1px 1px 1px 1px ;
+}
